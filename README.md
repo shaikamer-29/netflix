@@ -1,4 +1,4 @@
-📊 Netflix Data Analysis (SQL + Excel + PowerBI)
+📊 Netflix Data Analysis (SQL + Excel + PowerBI + GammaAI)
 🔹 Project Overview
 Analyzed the Netflix dataset to uncover insights on movies, TV shows, genres, release trends, and country distributions. Combined SQL queries, Excel cleaning & pivot tables, and PowerBI dashboards for a complete end‑to‑end analysis workflow.
 
@@ -8,6 +8,9 @@ SQL → Querying & aggregation
 Excel → Data cleaning
 
 PowerBI → Interactive visualizations
+
+🔹 GammaAI
+  Presentation 
 
 🔹 Process
 Data Cleaning (Excel)
