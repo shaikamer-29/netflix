@@ -5,7 +5,7 @@ Analyzed the Netflix dataset to uncover insights on movies, TV shows, genres, re
 🔹 Tools & Technologies
 SQL → Querying & aggregation
 
-Excel → Data cleaning, pivot tables, charts
+Excel → Data cleaning
 
 PowerBI → Interactive visualizations
 
